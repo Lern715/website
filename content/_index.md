@@ -15,17 +15,17 @@ sections:
     content:
       title: Skills
       items:
-        - name: Being pretty cool
-          description: 90%
+        - name: Programming Knowledge (R, MATLAB)
+          description: 
           icon: r-project
           icon_pack: fab
-        - name: French (Oui Oui)
-          description: 100%
-          icon: chart-line
+        - name: Electroencephalography (EEG)
+          description: 
+          icon: brain
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Language Teaching
+          description: 
+          icon: language
           icon_pack: fas
   - block: experience
     content:
@@ -39,10 +39,10 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: France
-          company_url: ''
-          company_logo: org-gc
+        - title: Research Assistant
+          company: UT Neurolinguistics Lab
+          company_url: 'https://fllanoslucas.wixsite.com/neuroling-lab'
+          company_logo: UT lab logo_adobe_express
           location: California
           date_start: '2021-01-01'
           date_end: ''

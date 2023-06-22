@@ -32,7 +32,7 @@ education:
   courses:
     - course: PhD in French Linguistics
       institution: The University of Texas at Austin
-      year: Present
+      year: In Progress
     - course: MA in French Linguistics
       institution: The University of Texas at Austin
       year: 2021
