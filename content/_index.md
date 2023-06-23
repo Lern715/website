@@ -11,22 +11,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: liron
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Programming Knowledge (R, MATLAB)
-          description: 
-          icon: r-project
-          icon_pack: fab
-        - name: Electroencephalography (EEG)
-          description: 
-          icon: brain
-          icon_pack: fas
-        - name: Language Teaching
-          description: 
-          icon: language
-          icon_pack: fas
+ 
   - block: experience
     content:
       title: Experience
@@ -43,17 +28,13 @@ sections:
           company: UT Neurolinguistics Lab
           company_url: 'https://fllanoslucas.wixsite.com/neuroling-lab'
           company_logo: UT lab logo_adobe_express
-          location: California
+          location: Austin, Texas
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              As a graudate research assistant in Dr. Fernando Llanos' lab, I help set up the Electroencephalography (EEG) system, collect data, and use computational modeling to analyze neural data related to native and non-native speech processing and acquisition.
+        - title: Assistant Instrucotr 
+          company: The University of Texas at Austin 
           company_url: ''
           company_logo: org-x
           location: California
