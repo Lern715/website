@@ -10,7 +10,7 @@ last_name: Shlesinger
 superuser: true
 
 # Role/position/tagline
-role: Pretty cool PhD Candidate
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -50,7 +50,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 
     label: Follow me on Twitter
     display:
       header: true
