@@ -40,7 +40,7 @@ sections:
           location: Austin, Texas
           date_start: '2021-08-01'
           date_end: ''
-          description: As an assistant instructor in the Department of French and Italian, I teach both introdyctory and intermdeiate levels of French
+          description: As an assistant instructor in the Department of French and Italian, I teach both introductory and intermdeiate levels of French
     design:
       columns: '2'
   # - block: accomplishments
